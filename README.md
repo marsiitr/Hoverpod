@@ -2,10 +2,10 @@
 _A vehicle that hovers over land as well as water_
 ![bot1](https://github.com/shubhamverma989630/Hoverpod/blob/master/IMG_20190308_003335_Bokeh.jpg)
 ## Abstract
-The idea of this project is to make a vehicle that hovers over water and land.The team is working on this project for three months and team was successful in making a hoverpod that can lift upto 15 kgs.Moreover it can be controlled by an android app with aid of bluetooth.
+The idea of this project is to make a vehicle that hovers over water and land. The team is working on this project for three months and team was successful in making a hoverpod that can lift upto 15 kgs. Moreover it can be controlled by an android app with aid of bluetooth.
 
 ## Motivation
-Our Bot can move efficiently on any plane surface, the almost frictionless design reduces wear and tear and saves energy the versatility of a hovercraft is well exploited by the US NAVY for shipment, which was our motivation, where we tried to further improve the control mechanism.
+Our Bot can move efficiently on any plane surface, the almost frictionless design reduces wear and tear and saves energy. The versatility of a hovercraft is well exploited by the US NAVY for shipment, which was our motivation, where we tried to further improve the control mechanism.
 
 ## Electronics Aspect of the Design 
 1. Electronic Component Used
@@ -17,7 +17,7 @@ Our Bot can move efficiently on any plane surface, the almost frictionless desig
      6. ESCs
      7. Android device
      8. Connecting wires and jumpers
-2. 2. Arduino Uno was used for motion of BLDC motors as well as to connect bluetooth module.
+2. Arduino Uno was used for motion of BLDC motors as well as to connect bluetooth module.
 3. A bluetooth module was used for transmission of commands from android device to our hoverpod.  
 4. All the BLDC motors were powered through Li-Po 11.1V dc battery.
 
@@ -43,10 +43,10 @@ It stands on a circular wooden board and comprises of 3 BLDC motors and a blower
 |Total|18450|
 
 ## Final Changes and Modification in design
-The structure was inclined due to unhealthy weight balancing so we need to balance it. And also it required some error correction in steering it.
+The structure was inclined due to unhealthy weight balancing so we need to balance it. And also it requires some error correction in steering it.
 
 ## Working
-Air blower blows air in the tube which consists of small pores at the lower side of it so that it creates an air cushion over which structure can hover. It is controlled by 3 BLDC motors which helps to steer it. And BLDC is controlled through arduino with the aid of bluetooth module. 
+Air blower blows air in the tube which consists of small pores at the lower side of it so that it creates an air cushion over which structure can hover. It is controlled by 3 BLDC motors which helps to steer it and BLDC motors are controlled through arduino with the aid of bluetooth module. 
 
  ## Limitations
  - It can lift only upto 15 kgs.
